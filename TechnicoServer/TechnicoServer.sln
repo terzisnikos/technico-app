@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechnicoApi", "TechnicoApi\TechnicoApi.csproj", "{AC90DF62-72D0-48A0-9EC4-550266B86D5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechnicoDomain", "TechnicoDomain\TechnicoDomain.csproj", "{AFAE5285-6021-41FD-926A-602C33BBF3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC90DF62-72D0-48A0-9EC4-550266B86D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC90DF62-72D0-48A0-9EC4-550266B86D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC90DF62-72D0-48A0-9EC4-550266B86D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC90DF62-72D0-48A0-9EC4-550266B86D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAE5285-6021-41FD-926A-602C33BBF3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAE5285-6021-41FD-926A-602C33BBF3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAE5285-6021-41FD-926A-602C33BBF3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAE5285-6021-41FD-926A-602C33BBF3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7426C692-3683-4FD3-AC47-2D551789D42A}
+	EndGlobalSection
+EndGlobal
